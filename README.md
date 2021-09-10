@@ -1,4 +1,3 @@
-# Sentence Similarity
 
 <p align="center">
   <img src="logo/sentencesim.jpg" />
