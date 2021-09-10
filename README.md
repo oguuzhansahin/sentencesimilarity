@@ -1,5 +1,10 @@
 # Sentence Similarity
 
+<p align="center">
+  <img src="logo/sentencesim.jpg" />
+</p>
+
+
 [sentencesimilarity](https://pypi.org/project/sentencesimilarity/)  is a Python library that calculates similarity between given sentences list.
 
 ## Installation
