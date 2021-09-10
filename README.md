@@ -1,6 +1,6 @@
 # Sentence Similarity
 
-sentencesimilarity  is a Python library that calculates similarity between given sentences list.
+[sentencesimilarity](https://pypi.org/project/sentencesimilarity/)  is a Python library that calculates similarity between given sentences list.
 
 ## Installation
 
